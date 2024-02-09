@@ -1,0 +1,8 @@
+getgenv().Setting = {
+    ["FixLag"] = false,
+    ["Nokick"]  = true
+ getgenv().Team = "Pirates"
+getgenv().FixCrash = false
+getgenv().FixCrash2 = false
+getgenv().Team = "Pirates"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/robloxdu/NGUYENPHIDU2012-10/6cf4863c9fb88d80823480110bc06e887a20dc80/DUZZ.json"))()
